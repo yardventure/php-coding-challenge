@@ -93,11 +93,10 @@ required business rules here and make the tests pass. We are not looking a speci
 solution but instead are more interested in your approach, how you've implemented 
 your solution and how you structure & format your code.
 - You should try to follow SOLID principles as a general guideline.
-- All code **MUST** be formatted to 
-[PSR-2 coding style guidelines](http://www.php-fig.org/psr/psr-2/)
 - Please include docblocks for your methods and comment only where necessary.
 - Please keep to using the Service pattern if you need to add any additional 
 services.
+- If you apply to backend position then you may skip frontend task.
 - If you have any questions, please don't hesitate to contact us.
 
 
