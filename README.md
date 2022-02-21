@@ -43,7 +43,7 @@ do it all in-memory.
  - For the purpose of this exercise you should not be storing any data in a database
  or in storage, instead everything should be in memory using PHP.
  - Please do not delete any of the existing Entity & Service classes (or their methods),
- you may add additional methods, or change how existing methods work if needbe.
+ you may add additional methods, or change how existing methods work if necessaary.
  - Create simple frontend which will be connected with a backend that you've created. 
  - There should be two pages:
     - Home Page - select subscription (weekly/fortnightly)
@@ -57,9 +57,10 @@ do it all in-memory.
  
 #### Getting started
 
-- CD into the directory where you have cloned your fork of this repository and run `composer install`.
+- CD into the `/core` folder in directory where you have cloned your fork of this repository and run `composer install`.
 - Run `./vendor/bin/phpunit`. The tests will initially fail, your task is to write the code
 that ensures they pass.
+- Create frontend in `/front` folder and connect it with your backend functionality.
 - Once complete, commit and push the result to a new branch. Pull request the branch and send
 us the URL to review.
  
