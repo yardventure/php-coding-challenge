@@ -57,10 +57,10 @@ do it all in-memory.
  
 #### Getting started
 
-- CD into the `/core` folder in directory where you have cloned your fork of this repository and run `composer install`.
+- CD into the directory where you have cloned your fork of this repository and run `composer install`.
 - Run `./vendor/bin/phpunit`. The tests will initially fail, your task is to write the code
 that ensures they pass.
-- Create frontend in `/front` folder and connect it with your backend functionality.
+- Create frontend and connect it with your backend functionality.
 - Once complete, commit and push the result to a new branch. Pull request the branch and send
 us the URL to review.
  
