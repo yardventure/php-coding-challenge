@@ -34,9 +34,6 @@ For the purpose of this test we won't be using any storage or databases and will
 do it all in-memory.
 
 # The task
- - Fork this repository to your own GitHub account, create a new branch and do all
- your changes on this branch. When you are done please pull request your changes
- into master (**Without merging!**) so we can review the pull request.
  - You can create or add any additional tests you may require, but please do not 
  modify any of the existing tests as these should all ideally pass at the end of
  the exercise.
@@ -54,16 +51,16 @@ do it all in-memory.
     - jQuery,
     - Bootstrap 4
     - Webpack
- 
-#### Getting started
 
-- CD into the directory where you have cloned your fork of this repository and run `composer install`.
+#### Workflow
+
+- Clone the project.
+- CD into the directory where you have cloned your repository and run `composer install`.
 - Run `./vendor/bin/phpunit`. The tests will initially fail, your task is to write the code
 that ensures they pass.
-- Create frontend and connect it with your backend functionality.
-- Once complete, commit and push the result to a new branch. Pull request the branch and send
-us the URL to review.
- 
+- Create frontend and connect it with your business logic.
+- Once complete, send us URL to your repository.
+
 # The business rules
 1) A subscription results in recurring deliveries. Each subscription has a specific
 delivery day (e.g. Tuesday) so the deliveries will always be on this day.
@@ -99,4 +96,4 @@ services.
 - If you apply to backend position then you may skip frontend task.
 - If you have any questions, please don't hesitate to contact us.
 
-
+![](https://media3.giphy.com/media/3orifgmUHrUiVCQ3MQ/200.webp?cid=ecf05e47zd2n0iiwgkigoxdrv6d1sg5tqn4bdzf72soej8ds&rid=200.webp&ct=g)
